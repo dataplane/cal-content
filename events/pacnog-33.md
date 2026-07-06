@@ -15,4 +15,4 @@ description: "The 33rd Pacific Network Operators Group meeting and educational w
 
 PacNOG 33 brought together network operators from across the Pacific Islands for the organization's annual conference and hands-on workshop program.
 
-The event featured a plenary conference alongside parallel workshop tracks covering Routing Infrastructure, Security Operations, Network Monitoring, and Management — led by NSRC and APNIC instructors.
+The event featured a plenary conference alongside parallel workshop tracks covering Routing Infrastructure, Security Operations, Network Monitoring, and Management, led by NSRC and APNIC instructors.

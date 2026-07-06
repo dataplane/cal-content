@@ -13,4 +13,4 @@ tags: ["hurricane-beryl", "caribbean", "grenada", "barbados", "jamaica", "natura
 
 Hurricane Beryl, which became the earliest Category 4 Atlantic hurricane on record, swept through the Caribbean islands from July 1–5, 2024, causing widespread internet and telecommunications outages. NetBlocks filed four separate disruption reports tracking connectivity losses across affected islands. Cloudflare Radar specifically documented the Grenada outage.
 
-Physical infrastructure damage — including power outages, downed fiber, and damaged cell towers — was responsible for the connectivity losses. The storm went on to make landfall in Texas on July 8, causing additional internet disruptions there.
+Physical infrastructure damage, including power outages, downed fiber, and damaged cell towers, was responsible for the connectivity losses. The storm went on to make landfall in Texas on July 8, causing additional internet disruptions there.

@@ -9,4 +9,4 @@ description: "A widespread Google Cloud outage in June 2025 caused broad service
 tags: ["google-cloud", "gmail", "discord", "spotify", "cloud-outage", "cascade"]
 ---
 
-Google Cloud experienced a widespread outage in June 2025 that disrupted services across Google's own product portfolio, including Gmail, and cascaded to major third-party platforms built on Google Cloud infrastructure — including Discord and Spotify.
+Google Cloud experienced a widespread outage in June 2025 that disrupted services across Google's own product portfolio, including Gmail, and cascaded to major third-party platforms built on Google Cloud infrastructure, including Discord and Spotify.

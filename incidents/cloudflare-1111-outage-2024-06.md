@@ -10,4 +10,4 @@ description: "Cloudflare's widely-used 1.1.1.1 public DNS resolver suffered an o
 tags: ["cloudflare", "1.1.1.1", "dns", "public-resolver", "outage"]
 ---
 
-Cloudflare's 1.1.1.1 public DNS resolver — one of the most widely used DNS services globally alongside Google's 8.8.8.8 — experienced a service outage on June 26, 2024. Users and applications configured to use 1.1.1.1 or 1.0.0.1 experienced DNS resolution failures until service was restored. Cloudflare published an incident report on their status page.
+Cloudflare's 1.1.1.1 public DNS resolver experienced a service outage on June 26, 2024. Users and applications configured to use 1.1.1.1 or 1.0.0.1 experienced DNS resolution failures until service was restored. Cloudflare published an incident report on their status page.

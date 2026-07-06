@@ -13,6 +13,4 @@ tags: ["netuk", "nog", "uk", "networking", "infrastructure", "isp"]
 description: "The inaugural NetUK conference, bringing together the UK's internet infrastructure community for knowledge sharing and networking among architects, engineers, and operators."
 ---
 
-NetUK 1 was the first edition of a new conference for the United Kingdom's internet infrastructure community, held at IET London: Savoy Place.
-
-The event brought together network architects, engineers, and operators for technical presentations, best practices sharing, and community networking focused on the UK and broader European internet ecosystem.
+NetUK 1 was the first edition of a conference for the United Kingdom's internet infrastructure community, held at IET London: Savoy Place. Network architects, engineers, and operators attended for technical presentations, operational knowledge sharing, and networking focused on the UK and broader European internet ecosystem.

@@ -12,4 +12,4 @@ tags: ["apricot", "apnic", "asia-pacific", "routing", "rpki", "ipv6", "policy", 
 description: "The Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT 2023) co-located with APNIC 55 in Manila, Philippines, covering Internet operations, policy, and development across the Asia-Pacific region."
 ---
 
-APRICOT 2023 convened in Manila, Philippines, co-located with the 55th APNIC meeting. The combined event brought together network operators, engineers, and policymakers from across the Asia-Pacific region and globally. Sessions addressed routing security, RPKI deployment, IPv6 adoption, DNS operations, and policy matters relevant to the APNIC region. Training workshops and tutorials ran alongside the main conference programme.
+APRICOT 2023 was held in Manila, Philippines, co-located with the 55th APNIC meeting. Network operators, engineers, and policymakers from across the Asia-Pacific region and globally attended. The programme covered routing security, RPKI deployment, IPv6 adoption, DNS operations, and APNIC region policy. Training workshops and tutorials ran alongside the main conference.

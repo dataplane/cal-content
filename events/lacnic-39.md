@@ -12,4 +12,4 @@ tags: ["lacnic", "latin-america", "caribbean", "ipv6", "rpki", "policy", "ip-add
 description: "The 39th LACNIC meeting in Lima, Peru, covering IP address policy, RPKI, and Internet development for Latin America and the Caribbean."
 ---
 
-LACNIC 39 convened in Lima, Peru, bringing together network operators, engineers, and policymakers from Latin America and the Caribbean. Sessions addressed IP address policy development, RPKI deployment across the region, IPv6 adoption, and Internet governance matters relevant to LACNIC member organizations.
+LACNIC 39 was held in Lima, Peru. Network operators, engineers, and policymakers from Latin America and the Caribbean covered IP address policy development, RPKI deployment across the region, IPv6 adoption, and Internet governance for LACNIC members.

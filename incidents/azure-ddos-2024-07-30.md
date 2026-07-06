@@ -10,4 +10,4 @@ description: "A DDoS attack on July 30, 2024 struck Microsoft Azure and was iden
 tags: ["azure", "microsoft", "ddos", "cloud", "global-outage"]
 ---
 
-On July 30, 2024, Microsoft Azure experienced a significant service disruption. Post-incident analysis by ThousandEyes and The Register identified a DDoS attack as a contributing factor — but notably, Azure's own DDoS protection implementation contained a misconfiguration that amplified the impact rather than mitigating it. The incident affected Azure customers globally and prompted questions about the robustness of Azure's DDoS mitigation controls.
+On July 30, 2024, Microsoft Azure experienced a significant service disruption. Post-incident analysis by ThousandEyes and The Register identified a DDoS attack as a contributing factor, but Azure's DDoS protection implementation contained a misconfiguration that amplified the impact rather than mitigating it. The incident affected Azure customers globally.

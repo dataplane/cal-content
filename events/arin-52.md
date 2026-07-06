@@ -12,4 +12,4 @@ tags: ["arin", "ipv4", "ipv6", "rpki", "policy", "north-america", "ip-addressing
 description: "The 52nd ARIN Public Policy and Members Meeting in San Jose, covering IP address policy, RPKI, and Internet number resource management for the North American region."
 ---
 
-ARIN 52 convened in San Jose, California, for ARIN's biannual public policy and members meeting. Policy discussions, RPKI service updates, and organizational governance matters were addressed. The meeting included the ARIN Members Meeting covering election of board members and advisory council, and open policy sessions for community discussion of proposed IP address management policies.
+ARIN 52 took place in San Jose, California. Policy discussions covered RPKI service updates and organizational governance. The Members Meeting addressed board and advisory council elections, and open policy sessions let the community discuss proposed IP address management policies.

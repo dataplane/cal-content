@@ -12,4 +12,4 @@ tags: ["cloudflare", "dns", "1.1.1.1", "resolver", "outage", "public-dns"]
 
 Cloudflare's public DNS resolver service at 1.1.1.1 and 1.0.0.1 experienced a disruption in March 2024, resulting in DNS resolution failures for some users worldwide who use Cloudflare's public resolver as their primary DNS service.
 
-The incident occurred in the same timeframe as the major Africa subsea cable faults that began March 14, 2024, which were generating significant traffic rerouting and increased load on global Internet infrastructure. Cloudflare documented the incident on its status page. DNS resolution is foundational to virtually all Internet activity, meaning disruptions to major public resolvers affect broad populations of users.
+The incident occurred in the same timeframe as the major Africa subsea cable faults that began March 14, 2024, which were generating significant traffic rerouting and increased load on global Internet infrastructure. Cloudflare documented the incident on its status page.

@@ -14,4 +14,4 @@ In early June 2023, an unusual BGP UPDATE message containing an unknown optional
 
 The cascading effect caused widespread BGP session flapping and routing instability as the malformed or unexpected attribute propagated. Multiple ISPs and network operators reported losing peering sessions and experiencing routing disruptions.
 
-RIPE NCC's analysis documented the event as an example of how seemingly minor protocol edge cases can propagate through the tightly coupled global routing system. The incident highlighted implementation differences in how BGP speakers handle unknown attributes and the importance of graceful handling of optional transitive attributes under RFC specifications.
+RIPE NCC's analysis documented the event and noted that implementations differed in how they handle unknown optional transitive attributes: some passed them along with the partial bit set as RFC 4271 requires, others reset the session.

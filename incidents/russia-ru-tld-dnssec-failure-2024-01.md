@@ -14,4 +14,4 @@ On January 30, 2024, the Russian .ru top-level domain zone experienced a DNSSEC 
 
 The failure affected a broad swath of Russian Internet services and websites. While users behind non-validating resolvers could still resolve .ru names, many public resolvers (including those from major cloud and ISP providers) perform validation, leaving millions of users unable to access .ru sites.
 
-The incident followed a similar, earlier DNSSEC failure in Russia and highlighted ongoing operational challenges with DNSSEC key management for country-code TLDs. Discussion on the NANOG and DNS-OARC mailing lists dissected the failure mode and resolution timeline. Full recovery required the zone to be re-signed with a valid key and for resolvers to flush their negative caches.
+Russia had experienced a similar DNSSEC failure previously. The NANOG and DNS-OARC mailing lists discussed the failure mode and resolution timeline. Full recovery required the zone to be re-signed with a valid key and for resolvers to flush their negative caches.

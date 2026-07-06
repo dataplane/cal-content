@@ -11,4 +11,4 @@ description: "IODA, Cloudflare Radar, and other monitoring platforms documented 
 tags: ["kenya", "internet-shutdown", "protests", "africa", "government-restrictions"]
 ---
 
-Multiple internet measurement platforms — including IODA, Cloudflare Radar, and NetBlocks — documented significant connectivity disruptions across Kenya in late June 2024. The disruptions coincided with widespread public protests against a proposed finance bill that included new taxes. The pattern of connectivity loss was consistent with government-ordered ISP restrictions, though official acknowledgment was limited.
+Multiple internet measurement platforms, including IODA, Cloudflare Radar, and NetBlocks, documented significant connectivity disruptions across Kenya in late June 2024. The disruptions coincided with widespread public protests against a proposed finance bill that included new taxes. The pattern of connectivity loss was consistent with government-ordered ISP restrictions, though official acknowledgment was limited.

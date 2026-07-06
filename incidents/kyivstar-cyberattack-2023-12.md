@@ -10,7 +10,7 @@ description: "A major cyberattack by the Russian state-linked group Sandworm des
 tags: ["kyivstar", "ukraine", "cyberattack", "sandworm", "russia", "mobile", "critical-infrastructure", "war"]
 ---
 
-On December 12, 2023, Kyivstar—Ukraine's largest mobile operator with over 24 million subscribers—suffered a devastating cyberattack attributed to the Russian state-sponsored group Sandworm. The attack destroyed core network components, causing a near-total collapse of Kyivstar's mobile and home Internet services.
+On December 12, 2023, Kyivstar, Ukraine's largest mobile operator with over 24 million subscribers, suffered a devastating cyberattack attributed to the Russian state-sponsored group Sandworm. The attack destroyed core network components, causing a near-total collapse of Kyivstar's mobile and home Internet services.
 
 The outage had immediate cascading effects beyond connectivity: automated air raid alert systems that relied on the Kyivstar network went silent in several regions, forcing cities to use alternative warning methods. Bank ATMs and POS terminals that depended on Kyivstar SIMs stopped functioning, and some critical infrastructure monitoring systems were disrupted.
 

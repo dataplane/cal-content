@@ -14,4 +14,4 @@ On January 3, 2024, an attacker who had obtained credentials for Orange Spain's 
 
 The resulting routing disruption lasted approximately 2.5 hours and caused widespread Internet connectivity problems for Orange Spain's customers. The attacker reportedly used the handle "Ms_Snow_OwO" and taunted the operator on social media.
 
-The incident highlighted the importance of securing RIPE NCC portal accounts (and equivalent RIR accounts) with strong authentication—including multi-factor authentication—since account access translates directly into the ability to modify routing security configurations affecting global reachability. RIPE NCC subsequently accelerated work on mandatory MFA for all accounts with routing-related access.
+RIR account access translates directly into the ability to modify routing security configurations affecting global reachability. RIPE NCC subsequently accelerated work on mandatory MFA for all accounts with routing-related access.

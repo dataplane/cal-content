@@ -14,4 +14,4 @@ On March 29, 2024, Microsoft engineer Andres Freund disclosed that xz/liblzma ve
 
 The backdoor modified the RSA key decryption process in liblzma, which OpenSSH links through systemd on affected systems. When exploited with a specific hidden key, it would allow unauthenticated remote code execution. Freund noticed the backdoor while investigating unexpected CPU usage and SSH authentication slowness on a Debian testing system.
 
-The compromised versions had reached several rolling-release and testing distributions (Fedora 40/41 beta, Debian testing, Arch, openSUSE Tumbleweed) but did not reach any stable/LTS distributions before discovery. The attacker's toolkit and patient multi-year social engineering campaign was considered a landmark supply chain attack against open source infrastructure.
+The compromised versions reached several rolling-release and testing distributions (Fedora 40/41 beta, Debian testing, Arch, openSUSE Tumbleweed) but not any stable/LTS distributions before discovery. The multi-year social engineering campaign and the sophistication of the backdoor drew significant attention to supply chain risks in open source software.

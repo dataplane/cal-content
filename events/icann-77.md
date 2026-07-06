@@ -12,4 +12,4 @@ tags: ["icann", "dns", "policy", "governance", "gtld", "ccTLD", "internet-govern
 description: "The 77th ICANN meeting in Washington D.C., covering domain name policy, DNS security, new gTLD program matters, and Internet governance."
 ---
 
-ICANN 77 convened in Washington D.C., bringing together the global community involved in Internet naming and addressing policy. Sessions addressed the new gTLD program, DNS security (DNSSEC and RPKI), ccTLD matters, WHOIS/RDAP policy, and a range of Internet governance topics within ICANN's mandate.
+ICANN 77 met in Washington D.C. The global community working on Internet naming and addressing policy covered the new gTLD program, DNS security (DNSSEC and RPKI), ccTLD matters, WHOIS/RDAP policy, and Internet governance within ICANN's mandate.

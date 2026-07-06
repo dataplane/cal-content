@@ -12,4 +12,4 @@ tags: ["icann", "dns", "policy", "governance", "gtld", "ccTLD", "internet-govern
 description: "The 79th ICANN meeting in San Juan, Puerto Rico, covering domain name policy, DNS security, new gTLD program matters, and Internet governance."
 ---
 
-ICANN 79 convened in San Juan, Puerto Rico, bringing together the global ICANN community for policy development and governance discussions. Sessions addressed the next round of new gTLDs, DNS security, WHOIS/RDAP policy, contracted parties compliance, and cross-community working group progress across ICANN's mandate.
+ICANN 79 met in San Juan, Puerto Rico. Policy and governance work covered the next round of new gTLDs, DNS security, WHOIS/RDAP policy, contracted parties compliance, and cross-community working group progress.

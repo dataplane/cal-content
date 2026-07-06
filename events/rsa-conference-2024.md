@@ -12,4 +12,4 @@ tags: ["rsa", "rsac", "cybersecurity", "enterprise-security", "infosec"]
 description: "The 33rd annual RSA Conference at the Moscone Center, one of the world's largest cybersecurity gatherings for security leaders, practitioners, and vendors."
 ---
 
-RSA Conference 2024 convened at the Moscone Center in San Francisco for the 33rd time, bringing together tens of thousands of cybersecurity professionals across four days of keynotes, sessions, and expo floor demonstrations spanning enterprise security, threat intelligence, and emerging technologies.
+RSA Conference 2024 took place at the Moscone Center in San Francisco for four days of keynotes, sessions, and expo floor demonstrations spanning enterprise security, threat intelligence, and emerging technologies, drawing tens of thousands of cybersecurity professionals.

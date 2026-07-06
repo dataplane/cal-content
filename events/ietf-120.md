@@ -15,4 +15,4 @@ description: "The 120th meeting of the Internet Engineering Task Force, held at 
 
 IETF 120 drew 813 onsite and 571 online participants to Vancouver for a week of working group sessions spanning Applications & Real-Time, Internet, Operations & Management, Routing, Security, and Transport areas.
 
-Notable topics included post-quantum cryptography, BGP security, DNS improvements, and ongoing work across the IETF's broad standards portfolio.
+Topics included post-quantum cryptography, BGP security, DNS improvements, and ongoing work across the IETF's standards portfolio.

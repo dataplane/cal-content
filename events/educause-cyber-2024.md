@@ -12,4 +12,4 @@ tags: ["educause", "higher-education", "cybersecurity", "privacy", "ren-isac"]
 description: "The premier forum for higher education information security and privacy professionals, covering cybersecurity strategy, policy, compliance, and technology in academic and research institutions."
 ---
 
-The EDUCAUSE Cybersecurity and Privacy Professionals Conference 2024 convened in Minneapolis for three days of sessions focused on cybersecurity strategy, regulatory compliance, and privacy practices specific to higher education and research networks.
+The EDUCAUSE Cybersecurity and Privacy Professionals Conference 2024 met in Minneapolis for three days of sessions on cybersecurity strategy, regulatory compliance, and privacy practices specific to higher education and research networks.

@@ -12,4 +12,4 @@ tags: ["ripe", "see", "south-east-europe", "regional", "greece", "europe"]
 description: "The 12th RIPE NCC South East Europe Regional Meeting at the Divani Caravel Hotel in Athens, gathering network engineers and technical staff from the region to share knowledge and foster cooperation."
 ---
 
-RIPE NCC SEE 12 convened at the Divani Caravel Hotel in Athens for a two-day regional meeting. The event brings together internet infrastructure professionals from South East Europe to discuss operational issues, share experience, and identify areas for regional cooperation within the RIPE NCC service region.
+RIPE NCC SEE 12 was held at the Divani Caravel Hotel in Athens for a two-day regional meeting, with internet infrastructure professionals from South East Europe discussing operational issues, sharing experience, and identifying areas for regional cooperation within the RIPE NCC service region.

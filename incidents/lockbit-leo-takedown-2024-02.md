@@ -10,7 +10,7 @@ description: "Operation Cronos, a coordinated international law enforcement acti
 tags: ["lockbit", "ransomware", "law-enforcement", "operation-cronos", "fbi", "europol", "nca", "cybercrime", "takedown"]
 ---
 
-On February 19-20, 2024, law enforcement agencies from ten countries — including the FBI, UK National Crime Agency (NCA), Europol, and agencies from Australia, Canada, France, Germany, Japan, the Netherlands, and Sweden — executed Operation Cronos, seizing LockBit's ransomware infrastructure.
+On February 19-20, 2024, law enforcement agencies from ten countries, including the FBI, UK National Crime Agency (NCA), Europol, and agencies from Australia, Canada, France, Germany, Japan, the Netherlands, and Sweden, executed Operation Cronos, seizing LockBit's ransomware infrastructure.
 
 LockBit had been the dominant ransomware-as-a-service (RaaS) operation since at least 2022, responsible for thousands of attacks against hospitals, schools, governments, and critical infrastructure globally. The operation generated over $1 billion in extorted payments.
 

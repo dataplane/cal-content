@@ -11,6 +11,6 @@ description: "Syniverse, a major wholesale mobile roaming clearinghouse, suffere
 tags: ["syniverse", "roaming", "att", "t-mobile", "verizon", "mobile", "international"]
 ---
 
-Syniverse Technologies, which operates critical wholesale infrastructure for international mobile roaming between carriers, suffered a platform failure from June 24–28, 2024. The disruption cut off international roaming capabilities for customers of AT&T, T-Mobile, and Verizon simultaneously — all three rely on Syniverse's clearing and settlement infrastructure for overseas roaming.
+Syniverse Technologies, which operates critical wholesale infrastructure for international mobile roaming between carriers, suffered a platform failure from June 24–28, 2024. The disruption cut off international roaming for customers of AT&T, T-Mobile, and Verizon simultaneously; all three rely on Syniverse's clearing and settlement infrastructure for overseas roaming.
 
 Business travelers and tourists relying on US carrier plans for voice and data while abroad found their service completely non-functional. Syniverse published a public statement addressing the disruption.

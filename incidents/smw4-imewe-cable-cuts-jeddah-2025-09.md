@@ -9,6 +9,6 @@ description: "SeaMeWe-4 (SMW4) and India-Middle East-Western Europe (IMEWE) subm
 tags: ["submarine-cable", "smw4", "imewe", "jeddah", "saudi-arabia", "middle-east", "asia", "cable-cut"]
 ---
 
-Two major submarine cable systems — SeaMeWe-4 (SMW4) and the India-Middle East-Western Europe (IMEWE) cable — were severed near Jeddah, Saudi Arabia in September 2025. The simultaneous damage to both cable systems significantly reduced available capacity on Asia-to-Middle East routes, forcing large volumes of traffic onto alternative paths.
+Two major submarine cable systems, SeaMeWe-4 (SMW4) and the India-Middle East-Western Europe (IMEWE) cable, were severed near Jeddah, Saudi Arabia in September 2025. The simultaneous damage to both cable systems significantly reduced available capacity on Asia-to-Middle East routes, forcing large volumes of traffic onto alternative paths.
 
 The rerouting caused measurable latency increases across affected routes, including notable latency spikes on Microsoft Azure for workloads traversing those paths.

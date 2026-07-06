@@ -12,4 +12,4 @@ tags: ["ripe", "nog", "routing", "internet-governance", "europe"]
 description: "The 88th RIPE meeting, bringing together the RIPE community for working group sessions, presentations, and networking in Krakow, Poland."
 ---
 
-RIPE 88 convened the RIPE community in Krakow for a week of working group sessions, technical presentations, and open policy discussions covering routing security, DNS, IPv6, and internet governance across the RIPE NCC service region.
+RIPE 88 met in Krakow for a week of working group sessions, technical presentations, and open policy discussions covering routing security, DNS, IPv6, and internet governance across the RIPE NCC service region.

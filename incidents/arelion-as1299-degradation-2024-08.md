@@ -9,4 +9,4 @@ description: "Arelion (formerly Telia Carrier), one of the world's largest Tier 
 tags: ["arelion", "as1299", "telia-carrier", "tier-1", "transit", "degradation"]
 ---
 
-Arelion (formerly Telia Carrier), operating as AS1299, is one of the world's largest Tier 1 internet transit providers with global peering and transit relationships. In mid-August 2024, the network experienced a service degradation that generated significant discussion on the NANOG and outages mailing lists, given Arelion's role as a major backbone carrier. Customers and downstream networks observed connectivity or performance issues as a result.
+Arelion (formerly Telia Carrier, AS1299) is one of the world's largest Tier 1 internet transit providers. In mid-August 2024, the network experienced a service degradation that drew significant discussion on the NANOG and outages mailing lists. Customers and downstream networks observed connectivity or performance issues.

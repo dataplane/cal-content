@@ -12,4 +12,4 @@ tags: ["icann", "dns", "policy", "governance", "gtld", "ccTLD", "internet-govern
 description: "The 78th ICANN meeting in Hamburg, Germany, covering domain name policy, DNS security, new gTLD program matters, and Internet governance."
 ---
 
-ICANN 78 convened in Hamburg, Germany, for ICANN's annual general meeting. Sessions covered domain name policy, the new gTLD program, DNS abuse, WHOIS/RDAP implementation, DNSSEC, and Internet governance topics. The Hamburg meeting included the ICANN Annual General Meeting with board elections and community deliberations.
+ICANN 78 met in Hamburg, Germany for ICANN's annual general meeting, covering domain name policy, the new gTLD program, DNS abuse, WHOIS/RDAP implementation, DNSSEC, and Internet governance. Board elections and community deliberations were held at the Annual General Meeting.

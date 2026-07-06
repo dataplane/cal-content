@@ -12,4 +12,4 @@ tags: ["ripe", "ripe-ncc", "europe", "routing", "rpki", "policy", "dns", "ipv6"]
 description: "The 87th RIPE meeting in Rome, Italy, covering Internet operations, routing security, RPKI, policy, and DNS topics for the RIPE region and beyond."
 ---
 
-RIPE 87 convened in Rome, Italy, bringing together network operators, engineers, and policymakers from the RIPE NCC service region (Europe, the Middle East, and Central Asia) and globally. Working group sessions addressed routing security, RPKI deployment, DNS operations, IPv6 transition, and RIPE NCC policy matters.
+RIPE 87 was held in Rome, Italy, with network operators, engineers, and policymakers from the RIPE NCC service region (Europe, the Middle East, and Central Asia) and globally. Working groups covered routing security, RPKI deployment, DNS operations, IPv6 transition, and RIPE NCC policy.

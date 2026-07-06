@@ -13,6 +13,6 @@ tags: ["safnog", "mwnog", "nog", "africa", "southern-africa", "malawi", "peering
 description: "A joint conference between the inaugural Malawi Network Operators Group (MwNOG-1) and the 9th Southern Africa Network Operators Group (SAFNOG-9)."
 ---
 
-MwNOG-1 × SAFNOG-9 was a landmark joint event marking both the inaugural meeting of the Malawi Network Operators Group and the ninth edition of the Southern Africa Network Operators Group.
+MwNOG-1 × SAFNOG-9 was a joint event combining the inaugural Malawi Network Operators Group meeting and the ninth Southern Africa Network Operators Group conference.
 
 The program included a peering workshop on August 13, followed by two days of main conference sessions covering routing, network security, ISP services, submarine cables, and emerging technologies.

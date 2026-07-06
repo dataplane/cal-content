@@ -10,4 +10,4 @@ description: "Cloudflare's DNS over HTTPS (DoH) and DNS over TLS (DoT) services 
 tags: ["cloudflare", "doh", "dot", "dns-over-https", "dns-over-tls", "certificate", "encrypted-dns"]
 ---
 
-Cloudflare's encrypted DNS services — including DNS over HTTPS (1.1.1.1/dns-query) and DNS over TLS — experienced certificate-related issues around April 15, 2024. Users relying on these services for encrypted DNS resolution were affected. Cloudflare published an incident report at their status page.
+Cloudflare's encrypted DNS services, including DNS over HTTPS (1.1.1.1/dns-query) and DNS over TLS, experienced certificate-related issues around April 15, 2024. Users relying on these services for encrypted DNS resolution were affected. Cloudflare published an incident report at their status page.

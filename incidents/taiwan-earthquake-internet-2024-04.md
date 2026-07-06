@@ -9,4 +9,4 @@ description: "A major earthquake in Taiwan on April 3, 2024 caused internet outa
 tags: ["taiwan", "earthquake", "submarine-cable", "infrastructure", "natural-disaster"]
 ---
 
-A 7.4-magnitude earthquake struck eastern Taiwan on April 3, 2024 — the strongest in 25 years. While Taiwan's internet infrastructure proved more resilient than feared, the earthquake caused notable disruptions to connectivity. Much of Taiwan's internet capacity relies on submarine cables landing at a small number of coastal facilities.
+A 7.4-magnitude earthquake struck eastern Taiwan on April 3, 2024, the strongest in 25 years. Taiwan's internet infrastructure proved more resilient than feared, though the quake caused notable connectivity disruptions. Much of Taiwan's internet capacity relies on submarine cables landing at a small number of coastal facilities.

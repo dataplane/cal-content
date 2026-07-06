@@ -12,4 +12,4 @@ tags: ["ietf", "standards", "dns", "routing", "security", "bgp", "australia"]
 description: "The 119th IETF meeting at the Brisbane Convention Centre with 674 onsite and 597 online participants, covering DNS, routing security, post-quantum cryptography, and transport protocols."
 ---
 
-IETF 119 convened at the Brisbane Convention Centre with over 1,200 participants across onsite and online. Working group sessions spanned all IETF areas including Applications & Real-Time, Internet, Operations & Management, Routing, Security, and Transport, with notable progress on post-quantum cryptography and BGP security.
+IETF 119 took place at the Brisbane Convention Centre with over 1,200 participants across onsite and online. Working group sessions spanned all IETF areas including Applications & Real-Time, Internet, Operations & Management, Routing, Security, and Transport, with active work on post-quantum cryptography and BGP security.

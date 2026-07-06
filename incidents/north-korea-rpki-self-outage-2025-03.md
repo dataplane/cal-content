@@ -9,6 +9,4 @@ description: "North Korea created an invalid RPKI Route Origin Authorization (RO
 tags: ["rpki", "roa", "north-korea", "dprk", "route-origin-validation", "bgp", "self-inflicted"]
 ---
 
-In early 2025, North Korea (DPRK) misconfigured an RPKI Route Origin Authorization (ROA), causing the country's BGP route announcements to be marked as RPKI-invalid. Networks performing Route Origin Validation (ROV) — an increasingly common practice following global RPKI deployment efforts — dropped the affected prefixes, effectively removing North Korean internet infrastructure from the routing tables of a large portion of the global internet.
-
-The incident is a clear example of RPKI working as intended: an invalid ROA caused the originating AS's routes to be filtered globally.
+In early 2025, North Korea (DPRK) misconfigured an RPKI Route Origin Authorization (ROA), causing the country's BGP route announcements to be marked as RPKI-invalid. Networks performing Route Origin Validation (ROV) dropped the affected prefixes, removing North Korean internet infrastructure from the routing tables of a large portion of the global internet.

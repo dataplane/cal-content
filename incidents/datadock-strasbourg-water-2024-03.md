@@ -10,4 +10,4 @@ description: "A water leak at the DataDock data center in Strasbourg, France dur
 tags: ["datadock", "strasbourg", "colocation", "data-center", "france", "hosting", "plusserver"]
 ---
 
-The DataDock facility in Strasbourg, France suffered a water leak in mid-March 2024 that caused power and equipment damage inside the data center. Multiple hosted providers — including PlusServer, Server4You, and RackNerd — reported service disruptions affecting customers hosted in the affected portions of the facility. PlusServer published an incident report on their status page.
+The DataDock facility in Strasbourg, France suffered a water leak in mid-March 2024 that caused power and equipment damage inside the data center. Multiple hosted providers, including PlusServer, Server4You, and RackNerd, reported service disruptions affecting customers hosted in the affected portions of the facility. PlusServer published an incident report on their status page.

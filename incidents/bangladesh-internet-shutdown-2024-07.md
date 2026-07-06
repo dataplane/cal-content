@@ -11,4 +11,4 @@ description: "Multiple monitoring platforms — IODA, Cloudflare Radar, and NetB
 tags: ["bangladesh", "internet-shutdown", "protests", "south-asia", "government-restrictions"]
 ---
 
-Bangladesh experienced major internet shutdowns in mid-July 2024, with IODA, Cloudflare Radar, and NetBlocks all documenting sharp drops in national connectivity. The shutdowns coincided with widespread student protests against a government quota system for civil service jobs, which turned increasingly violent. Mobile internet was the first to be restricted, followed by broader connectivity disruptions. The unrest ultimately led to significant political consequences for the country.
+Bangladesh experienced major internet shutdowns in mid-July 2024, with IODA, Cloudflare Radar, and NetBlocks documenting sharp drops in national connectivity. The shutdowns coincided with student protests against a government quota system for civil service jobs. Mobile internet was restricted first, followed by broader connectivity disruptions.

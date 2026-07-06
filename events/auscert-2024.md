@@ -12,4 +12,4 @@ tags: ["auscert", "cybersecurity", "australia", "asia-pacific", "infosec"]
 description: "Australia's longest-running cybersecurity conference, held at The Star Gold Coast, featuring speakers, tutorials, workshops, and networking for information security professionals across the Asia-Pacific region."
 ---
 
-AUSCERT 2024 marked another edition of Australia's pioneer cybersecurity conference at The Star Gold Coast. The event brings together security professionals from across the Asia-Pacific for four days of talks, training, and vendor engagement.
+AUSCERT 2024 was held at The Star Gold Coast. The conference brought together security professionals from across the Asia-Pacific for four days of talks, training, and vendor engagement.

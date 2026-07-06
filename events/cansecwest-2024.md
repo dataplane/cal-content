@@ -12,4 +12,4 @@ tags: ["cansecwest", "cybersecurity", "vulnerability", "canada", "research", "of
 description: "CanSecWest 2024 security research conference at the Sheraton Wall Centre, Vancouver, focusing on advanced security research, vulnerability disclosure, and offensive security techniques."
 ---
 
-CanSecWest 2024 was held at the Sheraton Wall Centre in Vancouver. Dojo training sessions ran March 16–19 preceding the main three-day conference. Sessions covered cutting-edge vulnerability research, exploit development, and offensive security across hardware, software, and network targets.
+CanSecWest 2024 was held at the Sheraton Wall Centre in Vancouver. Dojo training sessions ran March 16–19 preceding the main three-day conference. Sessions covered vulnerability research, exploit development, and offensive security across hardware, software, and network targets.

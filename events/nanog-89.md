@@ -12,4 +12,4 @@ tags: ["nanog", "network-operators", "bgp", "routing", "operations", "north-amer
 description: "The 89th NANOG meeting in Dallas, Texas, covering network operations, BGP routing, RPKI, and Internet infrastructure topics."
 ---
 
-NANOG 89 convened in Dallas, Texas, bringing together network operators and Internet infrastructure professionals. Sessions covered routing security advances, RPKI deployment, peering strategies, network automation, and operational case studies from across the operator community.
+NANOG 89 was held in Dallas, Texas. Network operators and Internet infrastructure professionals covered routing security, RPKI deployment, peering strategies, network automation, and operational case studies.

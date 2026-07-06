@@ -11,4 +11,4 @@ description: "A significant number of routes were withdrawn from Lumen's AS32421
 tags: ["lumen", "as32421", "bgp", "route-withdrawal", "black-lotus"]
 ---
 
-Between March 24–30, 2024, a significant reduction in announced routes was observed for Lumen Technologies' AS32421 — formerly associated with their Black Lotus Labs operations. The route withdrawals were flagged in the CIDR Report and visible in RIPE NCC STAT's routing history tool, representing a notable shrinkage in the routing footprint of this autonomous system.
+Between March 24–30, 2024, a significant reduction in announced routes was observed for Lumen Technologies' AS32421, formerly associated with their Black Lotus Labs operations. The route withdrawals were flagged in the CIDR Report and visible in RIPE NCC STAT's routing history tool.

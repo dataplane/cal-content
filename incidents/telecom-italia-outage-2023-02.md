@@ -14,4 +14,4 @@ On February 5, 2023, Telecom Italia (TIM) experienced a major nationwide outage 
 
 The Internet Society's PULSE platform analyzed the incident, describing it as a "perfect storm" involving multiple simultaneous issues including BGP routing problems and DNS service failures. Traffic to and from TIM's networks dropped sharply, with Cloudflare Radar and other monitoring services documenting the scale of the disruption.
 
-The outage affected TIM's residential broadband customers as well as business services, with some enterprise customers also experiencing disruptions to their international connectivity paths. The incident highlighted the concentration risk of Italy's Internet infrastructure, where TIM remains the dominant fixed-line operator with extensive last-mile access reach.
+The outage affected TIM's residential and business broadband customers, and some enterprise customers experienced disruptions to international connectivity paths as well. TIM remains the dominant fixed-line operator in Italy, with extensive last-mile access reach.

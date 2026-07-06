@@ -10,8 +10,8 @@ description: "A major Meta platform outage on March 5, 2024 affected Facebook, I
 tags: ["meta", "facebook", "instagram", "outage", "authentication", "social-media"]
 ---
 
-On March 5, 2024, Meta's family of platforms — including Facebook, Instagram, Messenger, WhatsApp, and Threads — experienced a significant global outage. Users were abruptly logged out of their accounts across devices and found themselves unable to log back in, with authentication systems returning errors.
+On March 5, 2024, Meta's family of platforms, including Facebook, Instagram, Messenger, WhatsApp, and Threads, experienced a significant global outage. Users were abruptly logged out of their accounts across devices and found themselves unable to log back in, with authentication systems returning errors.
 
 The outage lasted approximately two hours at its peak, affecting hundreds of millions of users worldwide. Downdetector recorded hundreds of thousands of outage reports within minutes of the incident beginning. ThousandEyes analysis documented the impact on Meta's network and DNS resolution paths.
 
-Meta attributed the incident to a technical issue with its systems and restored service gradually. The outage was notable for simultaneously affecting multiple platforms across the Meta portfolio and for the scale of user impact, making it one of the larger Meta service disruptions since the major October 2021 outage.
+Meta attributed the incident to a technical issue and restored service gradually. The simultaneous impact across Facebook, Instagram, Messenger, WhatsApp, and Threads made it one of the larger Meta service disruptions since October 2021.

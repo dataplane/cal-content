@@ -9,4 +9,4 @@ description: "ARIN experienced simultaneous degradation across its WHOIS, RDAP, 
 tags: ["arin", "whois", "rdap", "rpki", "degradation", "rir"]
 ---
 
-ARIN experienced a simultaneous degradation across three key services — WHOIS, RDAP, and RPKI — in late July 2024. The combination of impacted services suggested a shared infrastructure issue. Network operators, ISP operations teams, security researchers, and automated tools that rely on ARIN's registration data for IP address lookups and routing security validation were all affected during the incident.
+ARIN experienced simultaneous degradation across WHOIS, RDAP, and RPKI services in late July 2024. The combination suggested a shared infrastructure issue. Network operators, ISP operations teams, security researchers, and automated tools that rely on ARIN's registration data for IP address lookups and routing security validation were all affected.

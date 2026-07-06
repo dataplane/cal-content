@@ -11,8 +11,6 @@ description: "Dish Network suffered a ransomware attack beginning February 23, 2
 tags: ["dish-network", "ransomware", "cybersecurity", "boost-mobile", "sling-tv", "data-breach", "united-states"]
 ---
 
-On February 23, 2023, Dish Network — the US satellite television and wireless provider — suffered a ransomware attack that crippled its IT infrastructure. The company's websites, customer-facing apps, call centers, and internal employee systems went down. Remote employees reported being locked out of company systems. Boost Mobile, a Dish subsidiary, was also affected, with customers unable to manage accounts or activate new service.
+On February 23, 2023, Dish Network, a US satellite television and wireless provider, suffered a ransomware attack that crippled its IT infrastructure. The company's websites, customer-facing apps, call centers, and internal employee systems went down. Remote employees reported being locked out of company systems. Boost Mobile, a Dish subsidiary, was also affected, with customers unable to manage accounts or activate new service.
 
 The outage persisted for days before partial restoration. Dish disclosed in a subsequent SEC filing that the attackers had exfiltrated data affecting approximately 296,000 individuals, including some employee records containing personal information. The attack was linked to the Black Basta ransomware group.
-
-The incident highlighted the risks facing telecommunications providers, which serve both consumer markets and (through FirstNet-type arrangements) potentially critical communications infrastructure.

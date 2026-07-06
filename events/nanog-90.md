@@ -12,4 +12,4 @@ tags: ["nanog", "network-operators", "bgp", "routing", "operations", "north-amer
 description: "The 90th NANOG meeting in Charlotte, North Carolina, covering network operations, routing security, and Internet infrastructure."
 ---
 
-NANOG 90 took place in Charlotte, North Carolina, marking the 90th meeting of the North American Network Operators' Group. Sessions addressed routing security, BGP, RPKI, peering, and operational best practices for Internet infrastructure operators.
+NANOG 90 took place in Charlotte, North Carolina. Sessions addressed routing security, BGP, RPKI, peering, and operational best practices for Internet infrastructure operators.
